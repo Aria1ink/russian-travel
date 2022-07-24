@@ -6,7 +6,7 @@
 }
 @media screen and (min-width: 767px) {
   .place {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr fit-content(50%);
     row-gap: 48px;
     column-gap: 28px;
   }

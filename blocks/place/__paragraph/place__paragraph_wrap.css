@@ -1,0 +1,6 @@
+@media screen and (max-width: 424px) {
+  .place__paragraph_wrap {
+    min-width: 280px;
+    width: 280px;
+  }
+}
