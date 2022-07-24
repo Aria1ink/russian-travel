@@ -1,6 +1,6 @@
 .page {
   color: white;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
