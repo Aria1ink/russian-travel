@@ -12,7 +12,7 @@
   z-index: 2;
   white-space: pre-line;
 }
-.cover__subtitle:hover .cover__overlay {
+.cover__subtitle:hover {
   opacity: 0.8;
 }
 @media screen and (min-width: 767px) {
