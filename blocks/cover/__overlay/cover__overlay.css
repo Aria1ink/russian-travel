@@ -10,18 +10,6 @@
   bottom: 0;
   z-index: 1;
 }
-.cover:hover .cover__overlay {
-  opacity: 0.8;
-}
-.cover__title:hover .cover__overlay {
-  opacity: 0.8;
-}
-.cover__subtitle:hover .cover__overlay {
-  opacity: 0.8;
-}
-.cover__link:hover .cover__overlay {
-  opacity: 0.8;
-}
 @media screen and (min-width: 767px) {
   .cover__overlay {
     min-height: 480px;
