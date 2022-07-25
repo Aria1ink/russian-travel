@@ -12,9 +12,6 @@
   z-index: 2;
   white-space: pre-line;
 }
-.cover__subtitle:hover {
-  opacity: 0.8;
-}
 @media screen and (min-width: 767px) {
   .cover__subtitle {
     max-width: 360px;
