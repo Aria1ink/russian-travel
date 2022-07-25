@@ -12,7 +12,6 @@
   justify-content: center;
   align-items: center;
   background-image: url(../../../images/cover-trains.jpg);
-  background-size: cover;
   position: relative;
 }
 @media screen and (min-width: 424px) {
